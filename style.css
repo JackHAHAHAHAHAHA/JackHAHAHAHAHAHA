@@ -131,3 +131,6 @@ header{
 header p{
     text-align: center;
 }
+nav{
+    justify-content: center;
+}
