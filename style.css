@@ -52,9 +52,6 @@ h2{
     text-align: center;
     font-size: 30px;
 }
-header p{
-    text-align:center ;
-}
 .imgf{
     height:200px;
     width: 200px;
@@ -127,4 +124,10 @@ footer p{
 footer img{
     width: 50px;
     height: 50px;
+}
+header{
+    justify-content: center;
+}
+header p{
+    text-align: center;
 }
