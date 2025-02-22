@@ -18,6 +18,7 @@ nav a{
     border-radius: 10px;
     text-decoration: none;
     color: white;
+    padding:5px;
     background-color: black;
     text-align: center;
 }
