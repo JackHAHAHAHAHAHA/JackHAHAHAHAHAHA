@@ -21,6 +21,8 @@ nav a{
     padding:5px;
     background-color: black;
     text-align: center;
+    width:10px;
+    height:5px;
 }
 .a3{
     text-align: center;
@@ -131,5 +133,4 @@ header p{
 nav{
     display:flex;
     justify-content: center;
-    
 }
