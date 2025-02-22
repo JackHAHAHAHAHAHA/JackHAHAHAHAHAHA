@@ -129,6 +129,7 @@ header p{
     text-align: center;
 }
 nav{
-    justify-content: center;
     display:flex;
+    justify-content: center;
+    
 }
